@@ -1,3 +1,10 @@
+/* Editor.js
+ * Built to be completely modular, with each module below listed
+ * in descending order, so that each one relies on the ones above it.
+ * Feel free to comment-out modules depending on your needs, starting
+ * at the bottom and working your way up
+ */
+
 var Editor = {};
 
 window.Editor = module.exports = Editor;
@@ -21,6 +28,8 @@ Editor.Node
 Editor.Way
 Editor.Shape
 Editor.Period
+Editor.Directive
+Editor.Changeset
 */
 
 // Contains a complete history of changes for all objects
