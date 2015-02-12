@@ -2,6 +2,8 @@ var Editor = {};
 
 window.Editor = module.exports = Editor;
 
+Editor.VERSION = require('./package.json').version;
+
 // COMMON ACTIONS
 // Replace with custom libraries to your hearts content
 Editor.show = {

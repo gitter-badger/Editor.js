@@ -1,0 +1,11 @@
+{
+  "framework": "mocha",
+  "src_files": [
+    "test/assert.js",
+    "node_modules/lodash/index.js",
+    "node_modules/d3/d3.js",
+    "build/Editor.js",
+    "test/before.js",
+    "test/connection.js"
+  ]
+}
