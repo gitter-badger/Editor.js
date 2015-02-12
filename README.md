@@ -1,5 +1,7 @@
 # Atlastory: Editor.js
 
+[![Join the chat at https://gitter.im/atlastory/Editor.js](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/atlastory/Editor.js?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 [![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/atlastory/Editor.js?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
 A front-end javascript library for connecting with the [Atlastory API](https://github.com/atlastory/api) and editing maps. [Atlastory](https://github.com/atlastory/ideology) is an interactive map that chronicles the history of life on earth.
